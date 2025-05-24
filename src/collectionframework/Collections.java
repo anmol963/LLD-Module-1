@@ -35,7 +35,7 @@ public class Collections {
         // stack and vector these two classes are used as legacy class
         // A more complete and consistent set of LIFO stack operations is
         // provided by the Deque interface and its implementations
-        // Deque<Integer> stack = new ArrayDeque<Integer>();
+        Deque<Integer> stack1 = new ArrayDeque<Integer>();
         Stack<Integer> stack = new Stack<>();
 
         // ----------------------------------------------------------------------------------//
